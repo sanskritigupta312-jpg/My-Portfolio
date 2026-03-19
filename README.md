@@ -1,16 +1,27 @@
-# React + Vite
+# 🚀 Professional Portfolio | React & Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website showcasing my journey as a **Full-Stack Developer (MERN Stack)**. This project highlights my technical skills, featured projects, and professional experience with a focus on clean UI/UX.
 
-Currently, two official plugins are available:
+🔗 **Live Demo: "https://my-portfolio-psi-liard-97.vercel.app/"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
+* **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop.
+* **Dynamic Project Gallery:** Showcasing work with hover effects and descriptions.
+* **Modern UI:** Built with Tailwind CSS for a sleek, dark-themed aesthetic.
+* **Interactive Components:** Smooth scrolling and animated transitions using Framer Motion.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+* **Frontend:** React.js, Tailwind CSS
+* **Icons & Assets:** Lucide React, Custom 3D Illustrations
+* **Deployment:** Vercel
+* **Version Control:** Git & GitHub
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+```text
+src/
+├── assets/        # Images and icons
+├── Components/    # Reusable UI elements (Navbar, Hero, Projects, etc.)
+├── pages/         # Page-level components
+└── App.jsx        # Main application logic
