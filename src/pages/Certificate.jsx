@@ -10,14 +10,6 @@ const Certificates = () => {
 
       <div className='grid md:grid-cols-2 gap-6'>
         <CertificateCard 
-          title="Software Development Internship" 
-          org="Unessa Foundation & Internshala" 
-          year="March 12, 2026" 
-          description="Successfully secured a Software Development internship at Unessa Foundation through Internshala."
-          link="/certificates/Software-Development-Internship.pdf"
-        />
-
-        <CertificateCard 
           title="React JS Developer Internship"
           org="CodeWebx Technologies"
           year="February 27, 2026"
