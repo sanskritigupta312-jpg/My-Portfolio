@@ -16,7 +16,7 @@ const Certificates = () => {
           org="CodeWebx Technologies"
           year="2026"
           description="Completed internship working on real-world projects using ReactJS, Tailwind CSS, and Firebase."
-          link="public/certificates/CodeWebx Internship.pdf"
+          link="/certificates/CodeWebx Internship.pdf"
         />
 
         <CertificateCard 
@@ -24,7 +24,7 @@ const Certificates = () => {
           org="Tech Mahindra Foundation"
           year="Aug 02, 2025"
           description="Completed training on cybersecurity fundamentals including threats, prevention, and best practices."
-          link="public/certificates/Cyber-Security-Certificate.pdf"
+          link="/certificates/Cyber-Security-Certificate.pdf"
         />
 
       </div>
