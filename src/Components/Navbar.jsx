@@ -27,6 +27,9 @@ const Navbar = () => {
         <Link to="/Projects" className="block text-md transition-all duration-300 p-2 md:p-0 hover:text-[#ff4d5a]" onClick={() => setMenuOpen(false)}>
           Projects
         </Link>
+        <Link to="/Certificates" className="block text-md transition-all duration-300 p-2 md:p-0 hover:text-[#ff4d5a]" onClick={() => setMenuOpen(false)}>
+          Certificates
+        </Link>
         <Link to="/Contact" className="block text-md transition-all duration-300 p-2 md:p-0 hover:text-[#ff4d5a]" onClick={() => setMenuOpen(false)}>
           Contact
         </Link>
