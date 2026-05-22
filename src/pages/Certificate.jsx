@@ -9,6 +9,13 @@ const Certificates = () => {
       </h1>
 
       <div className='grid md:grid-cols-2 gap-6'>
+        <CertificateCard
+          title="Prompt Coding Certificate"
+          org="IIIT,Naya Raipur"
+          year="April, 2026"
+          description="Successfully completed the Prompt Coding certification program, gaining knowledge in effective prompt engineering and AI-assisted development techniques."
+          link="/certificates/Prompt Coding.pdf"
+        />
         <CertificateCard 
           title="React JS Developer Internship"
           org="CodeWebx Technologies"
